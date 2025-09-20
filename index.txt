@@ -1,0 +1,2 @@
+i am devolping index.txt file 
+echo "This is my first file" > index.txt
